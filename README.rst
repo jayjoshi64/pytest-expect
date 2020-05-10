@@ -20,7 +20,7 @@ Installation
 How to use
 ----------
 
-**expect file name**
+**Expect file name**
 
 * Default name of the xfail-file is ``.pytest.expect``.
 * To customize the name of the xfail-file, use pytest parameter ``--xfail-file <File_Name>``.
